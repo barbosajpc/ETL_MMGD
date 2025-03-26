@@ -35,6 +35,27 @@ Este repositório contém um script em Python para carregar, filtrar e salvar um
 ## 📊 Bibliotecas Utilizadas
 - `pandas`: Para manipulação de dados em DataFrame.
 
+## Dashboard no Power BI
+
+1. **Abrir o Power BI**
+2. **Importar os dados:**
+   - Clique em **Obter Dados** > **Texto/CSV**
+   - Selecione o arquivo `empreendimentosGD_PI.csv`
+3. **Criar as visualizações:**
+   - Utilize **gráficos de barras**, **mapas**, **tabelas dinâmicas** e outros elementos para analisar:
+     - Distribuição dos empreendimentos por cidade
+     - Potência instalada por tipo de geração
+     - Evolução dos empreendimentos ao longo do tempo
+4. **Publicar e compartilhar o dashboard**
+
+## Exemplo de Dashboard
+Um exemplo de dashboard pode incluir:
+- **Mapa interativo** com a localização dos empreendimentos
+- **Gráfico de barras** mostrando a potência instalada por tipo de geração
+- **Tabela dinâmica** com detalhes dos empreendimentos
+
 ## 📜 Licença
 Este projeto está sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+
 
