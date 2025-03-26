@@ -6,6 +6,8 @@ Este repositório contém um script em Python para carregar, filtrar e salvar um
 - **`empreendimento-geracao-distribuida.csv`**: Arquivo de entrada contendo os dados completos.
 - **`filtro_dados.py`**: Script Python para processamento e filtragem dos dados.
 - **`empreendimentosGD_PI.csv`**: Arquivo de saída com dados filtrados para o estado do Piauí.
+- **`Exportação`**: Os dados filtrados são exportados para um arquivo CSV.
+- **`Dashboard no Power BI`**: Utiliza-se o arquivo CSV gerado para criar visualizações interativas.
 
 ## 📌 Funcionalidades
 - Carregamento do arquivo CSV com encoding `latin-1` e separador `;`.
